@@ -6,4 +6,4 @@ Las variables del método main permite establecer el número de puertas que se a
 
 
 
-[url]https://es.wikipedia.org/wiki/Problema_de_Monty_Hall[/url]
+https://es.wikipedia.org/wiki/Problema_de_Monty_Hall
