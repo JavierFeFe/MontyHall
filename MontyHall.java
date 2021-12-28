@@ -4,11 +4,11 @@ import java.util.*;
 public class MontyHall {
     public static void main(String[] args) {
         boolean cambiaPuerta = false; //Se cambiará la puerta
-        int nPuertas = 100; //Puertas totales
+        int nPuertas = 3; //Puertas totales
         int abroPuertas = 1; //Cuantas puertas se abrirán
         int partidas = 1000000; //Cuantas partidas de jugarán
         boolean verbose = false; //Muestra el resultado de cada partida
-        boolean interative = true; //Convierte el juego en interactivo (en este modo se preguntará el valor de todas las variables anteriores y el modo verbose quedará activado)
+        boolean interative = false; //Convierte el juego en interactivo (en este modo se preguntará el valor de todas las variables anteriores y el modo verbose quedará activado)
         int ganadas = 0; //Contador
         int perdidas = 0; //Contador
         Scanner scan = new Scanner(System.in);
